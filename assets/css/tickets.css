@@ -1,0 +1,21 @@
+
+
+/*formulario*/
+.title-h1 {
+    color: black;
+    font-weight:600;
+    padding-bottom: 2%;
+}
+
+.btn-form {
+    background: rgb(116, 185, 13) !important;
+    opacity: 0.75 !important;
+    color: white !important;
+}
+
+/*footer*/
+
+footer {
+    background-color: #1d3a4a;
+    margin-top: 1rem;
+}

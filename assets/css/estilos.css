@@ -1,0 +1,121 @@
+
+
+/*desde aquí empiezan mis modificaciones*/
+
+/*Conf Bs As*/
+.bg-ba1 {
+    background-image: url(./../img/ba1.jpg);
+    width: auto;
+    height: auto;
+}
+
+#parrafo {
+    max-width: 40.5rem;
+}
+
+/**/
+
+.form-or {
+    color: black;
+    text-decoration-style: dotted;
+}
+
+#btn-send {
+    background-color: #96c93e;
+}
+
+
+footer {
+    background-color: #1d3a4a;
+    margin-top: 1rem;
+}
+
+
+/*
+@media (max-width: 980px) {
+    #margin-ba {
+      font-size: small;
+      align-items: center;
+      margin-right: 55%;
+      position: absolute;
+      margin-bottom: 50%;
+      padding-right: 40%;
+    }
+  }
+  
+  @media (max-width: 920px) {
+    #margin-ba{
+      font-size: smaller;
+      align-items: center;
+      position: fixed;
+      margin-right: 50%;
+      margin-left: 35%;
+      padding-right: 45%;
+    }
+  
+  }
+
+  @media (max-width: 780px) {
+
+    #margin-ba {
+        margin: 0 !important;
+        padding: 0 !important;
+        font-size: 10px;
+    }
+    #botns a {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 570px) {
+    #margin-ba {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #margin-ba {
+        text-align: left;
+    }
+}
+
+*/
+
+@media (max-width: 580px) {
+    .margin-ba {
+        font-size: small;
+    }
+
+    #botns a {
+        font-size: small;
+    }
+}
+
+@media (max-width:400px) {
+    .margin-ba {
+        font-size: 10px;
+    }
+
+    #botns a {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 310px) {
+    .margin-ba {
+        font-size: 5px;
+    }
+
+    #botns a {
+        font-size: 5px;
+    }
+}
+
+@media (max-width: 210px) {
+    .margin-ba {
+        font-size: 2px;
+    }
+
+    #botns a {
+        font-size: 2px;
+    }
+}
